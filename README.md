@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0343-integer-break](https://github.com/narula1304/DSA/tree/master/0343-integer-break) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/narula1304/DSA/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Array
 |  |
@@ -14,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0343-integer-break](https://github.com/narula1304/DSA/tree/master/0343-integer-break) |
 | [1340-jump-game-v](https://github.com/narula1304/DSA/tree/master/1340-jump-game-v) |
 ## Sorting
 |  |
