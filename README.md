@@ -11,14 +11,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0494-target-sum](https://github.com/narula1304/DSA/tree/master/0494-target-sum) |
 | [1340-jump-game-v](https://github.com/narula1304/DSA/tree/master/1340-jump-game-v) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0343-integer-break](https://github.com/narula1304/DSA/tree/master/0343-integer-break) |
+| [0494-target-sum](https://github.com/narula1304/DSA/tree/master/0494-target-sum) |
 | [1340-jump-game-v](https://github.com/narula1304/DSA/tree/master/1340-jump-game-v) |
 ## Sorting
 |  |
 | ------- |
 | [1340-jump-game-v](https://github.com/narula1304/DSA/tree/master/1340-jump-game-v) |
+## Backtracking
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/narula1304/DSA/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
