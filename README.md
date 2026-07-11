@@ -11,11 +11,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/narula1304/DSA/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0494-target-sum](https://github.com/narula1304/DSA/tree/master/0494-target-sum) |
 | [1340-jump-game-v](https://github.com/narula1304/DSA/tree/master/1340-jump-game-v) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/narula1304/DSA/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0343-integer-break](https://github.com/narula1304/DSA/tree/master/0343-integer-break) |
 | [0494-target-sum](https://github.com/narula1304/DSA/tree/master/0494-target-sum) |
 | [0576-out-of-boundary-paths](https://github.com/narula1304/DSA/tree/master/0576-out-of-boundary-paths) |
@@ -29,4 +31,28 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0494-target-sum](https://github.com/narula1304/DSA/tree/master/0494-target-sum) |
+## Depth-First Search
+|  |
+| ------- |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/narula1304/DSA/tree/master/0329-longest-increasing-path-in-a-matrix) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/narula1304/DSA/tree/master/0329-longest-increasing-path-in-a-matrix) |
+## Graph Theory
+|  |
+| ------- |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/narula1304/DSA/tree/master/0329-longest-increasing-path-in-a-matrix) |
+## Topological Sort
+|  |
+| ------- |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/narula1304/DSA/tree/master/0329-longest-increasing-path-in-a-matrix) |
+## Memoization
+|  |
+| ------- |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/narula1304/DSA/tree/master/0329-longest-increasing-path-in-a-matrix) |
+## Matrix
+|  |
+| ------- |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/narula1304/DSA/tree/master/0329-longest-increasing-path-in-a-matrix) |
 <!---LeetCode Topics End-->
