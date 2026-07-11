@@ -18,8 +18,23 @@ public:
     }
 
     int numRollsToTarget(int n, int k, int target) {
-        memset(dp,-1,sizeof(dp));
+       vector<vector<int>> dp(n+1,vector<int>(target+1,0));
 
-        return solve(n,k,target);
+       dp[0][0] = 1;
+
+       for(int i=1;i<n+1;i++){
+            for(int j=1;j<target+1;j++){
+                int ways = 0;
+
+                for(int face = 1;face<=k;face++){
+                    if(j>= face)
+                    ways = (ways + dp[i-1][j-face]) % mod;
+                }
+
+                dp[i][j] = ways;
+            }
+       }
+
+       return dp[n][target];
     }
 };
