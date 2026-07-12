@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0131-palindrome-partitioning](https://github.com/narula1304/DSA/tree/master/0131-palindrome-partitioning) |
 | [0140-word-break-ii](https://github.com/narula1304/DSA/tree/master/0140-word-break-ii) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/narula1304/DSA/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0343-integer-break](https://github.com/narula1304/DSA/tree/master/0343-integer-break) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0131-palindrome-partitioning](https://github.com/narula1304/DSA/tree/master/0131-palindrome-partitioning) |
 | [0140-word-break-ii](https://github.com/narula1304/DSA/tree/master/0140-word-break-ii) |
 | [0494-target-sum](https://github.com/narula1304/DSA/tree/master/0494-target-sum) |
 ## Depth-First Search
@@ -72,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0131-palindrome-partitioning](https://github.com/narula1304/DSA/tree/master/0131-palindrome-partitioning) |
 | [0140-word-break-ii](https://github.com/narula1304/DSA/tree/master/0140-word-break-ii) |
 ## Trie
 |  |
