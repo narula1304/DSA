@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0140-word-break-ii](https://github.com/narula1304/DSA/tree/master/0140-word-break-ii) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/narula1304/DSA/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0494-target-sum](https://github.com/narula1304/DSA/tree/master/0494-target-sum) |
 | [0931-minimum-falling-path-sum](https://github.com/narula1304/DSA/tree/master/0931-minimum-falling-path-sum) |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0140-word-break-ii](https://github.com/narula1304/DSA/tree/master/0140-word-break-ii) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/narula1304/DSA/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0343-integer-break](https://github.com/narula1304/DSA/tree/master/0343-integer-break) |
 | [0494-target-sum](https://github.com/narula1304/DSA/tree/master/0494-target-sum) |
@@ -34,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0140-word-break-ii](https://github.com/narula1304/DSA/tree/master/0140-word-break-ii) |
 | [0494-target-sum](https://github.com/narula1304/DSA/tree/master/0494-target-sum) |
 ## Depth-First Search
 |  |
@@ -54,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0140-word-break-ii](https://github.com/narula1304/DSA/tree/master/0140-word-break-ii) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/narula1304/DSA/tree/master/0329-longest-increasing-path-in-a-matrix) |
 ## Matrix
 |  |
@@ -61,4 +65,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/narula1304/DSA/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0931-minimum-falling-path-sum](https://github.com/narula1304/DSA/tree/master/0931-minimum-falling-path-sum) |
 | [1301-number-of-paths-with-max-score](https://github.com/narula1304/DSA/tree/master/1301-number-of-paths-with-max-score) |
+## Hash Table
+|  |
+| ------- |
+| [0140-word-break-ii](https://github.com/narula1304/DSA/tree/master/0140-word-break-ii) |
+## String
+|  |
+| ------- |
+| [0140-word-break-ii](https://github.com/narula1304/DSA/tree/master/0140-word-break-ii) |
+## Trie
+|  |
+| ------- |
+| [0140-word-break-ii](https://github.com/narula1304/DSA/tree/master/0140-word-break-ii) |
 <!---LeetCode Topics End-->
