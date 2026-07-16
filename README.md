@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0140-word-break-ii](https://github.com/narula1304/DSA/tree/master/0140-word-break-ii) |
+| [0160-intersection-of-two-linked-lists](https://github.com/narula1304/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 ## String
 |  |
 | ------- |
@@ -100,4 +101,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1130-minimum-cost-tree-from-leaf-values](https://github.com/narula1304/DSA/tree/master/1130-minimum-cost-tree-from-leaf-values) |
+## Linked List
+|  |
+| ------- |
+| [0160-intersection-of-two-linked-lists](https://github.com/narula1304/DSA/tree/master/0160-intersection-of-two-linked-lists) |
+## Two Pointers
+|  |
+| ------- |
+| [0160-intersection-of-two-linked-lists](https://github.com/narula1304/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 <!---LeetCode Topics End-->
