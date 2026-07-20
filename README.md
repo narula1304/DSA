@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1130-minimum-cost-tree-from-leaf-values](https://github.com/narula1304/DSA/tree/master/1130-minimum-cost-tree-from-leaf-values) |
 | [1301-number-of-paths-with-max-score](https://github.com/narula1304/DSA/tree/master/1301-number-of-paths-with-max-score) |
 | [1340-jump-game-v](https://github.com/narula1304/DSA/tree/master/1340-jump-game-v) |
+| [2381-shifting-letters-ii](https://github.com/narula1304/DSA/tree/master/2381-shifting-letters-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0140-word-break-ii](https://github.com/narula1304/DSA/tree/master/0140-word-break-ii) |
 | [0187-repeated-dna-sequences](https://github.com/narula1304/DSA/tree/master/0187-repeated-dna-sequences) |
 | [0567-permutation-in-string](https://github.com/narula1304/DSA/tree/master/0567-permutation-in-string) |
+| [2381-shifting-letters-ii](https://github.com/narula1304/DSA/tree/master/2381-shifting-letters-ii) |
 ## Trie
 |  |
 | ------- |
@@ -150,4 +152,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1094-car-pooling](https://github.com/narula1304/DSA/tree/master/1094-car-pooling) |
+| [2381-shifting-letters-ii](https://github.com/narula1304/DSA/tree/master/2381-shifting-letters-ii) |
 <!---LeetCode Topics End-->
