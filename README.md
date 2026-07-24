@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/narula1304/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0494-target-sum](https://github.com/narula1304/DSA/tree/master/0494-target-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/narula1304/DSA/tree/master/0643-maximum-average-subarray-i) |
+| [0815-bus-routes](https://github.com/narula1304/DSA/tree/master/0815-bus-routes) |
 | [0931-minimum-falling-path-sum](https://github.com/narula1304/DSA/tree/master/0931-minimum-falling-path-sum) |
 | [1052-grumpy-bookstore-owner](https://github.com/narula1304/DSA/tree/master/1052-grumpy-bookstore-owner) |
 | [1094-car-pooling](https://github.com/narula1304/DSA/tree/master/1094-car-pooling) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/narula1304/DSA/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0815-bus-routes](https://github.com/narula1304/DSA/tree/master/0815-bus-routes) |
 ## Graph Theory
 |  |
 | ------- |
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0187-repeated-dna-sequences](https://github.com/narula1304/DSA/tree/master/0187-repeated-dna-sequences) |
 | [0347-top-k-frequent-elements](https://github.com/narula1304/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0567-permutation-in-string](https://github.com/narula1304/DSA/tree/master/0567-permutation-in-string) |
+| [0815-bus-routes](https://github.com/narula1304/DSA/tree/master/0815-bus-routes) |
 ## String
 |  |
 | ------- |
