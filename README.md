@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/narula1304/DSA/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0347-top-k-frequent-elements](https://github.com/narula1304/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0494-target-sum](https://github.com/narula1304/DSA/tree/master/0494-target-sum) |
+| [0540-single-element-in-a-sorted-array](https://github.com/narula1304/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0643-maximum-average-subarray-i](https://github.com/narula1304/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0815-bus-routes](https://github.com/narula1304/DSA/tree/master/0815-bus-routes) |
 | [0931-minimum-falling-path-sum](https://github.com/narula1304/DSA/tree/master/0931-minimum-falling-path-sum) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/narula1304/DSA/tree/master/0300-longest-increasing-subsequence) |
+| [0540-single-element-in-a-sorted-array](https://github.com/narula1304/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [3346-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/narula1304/DSA/tree/master/3346-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3356-zero-array-transformation-ii](https://github.com/narula1304/DSA/tree/master/3356-zero-array-transformation-ii) |
 ## Stack
