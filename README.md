@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0140-word-break-ii](https://github.com/narula1304/DSA/tree/master/0140-word-break-ii) |
 | [0162-find-peak-element](https://github.com/narula1304/DSA/tree/master/0162-find-peak-element) |
 | [0300-longest-increasing-subsequence](https://github.com/narula1304/DSA/tree/master/0300-longest-increasing-subsequence) |
+| [0322-coin-change](https://github.com/narula1304/DSA/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/narula1304/DSA/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0347-top-k-frequent-elements](https://github.com/narula1304/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0494-target-sum](https://github.com/narula1304/DSA/tree/master/0494-target-sum) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/narula1304/DSA/tree/master/0131-palindrome-partitioning) |
 | [0140-word-break-ii](https://github.com/narula1304/DSA/tree/master/0140-word-break-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/narula1304/DSA/tree/master/0300-longest-increasing-subsequence) |
+| [0322-coin-change](https://github.com/narula1304/DSA/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/narula1304/DSA/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0343-integer-break](https://github.com/narula1304/DSA/tree/master/0343-integer-break) |
 | [0494-target-sum](https://github.com/narula1304/DSA/tree/master/0494-target-sum) |
@@ -69,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0322-coin-change](https://github.com/narula1304/DSA/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/narula1304/DSA/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0815-bus-routes](https://github.com/narula1304/DSA/tree/master/0815-bus-routes) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/narula1304/DSA/tree/master/1559-detect-cycles-in-2d-grid) |
@@ -209,4 +212,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1559-detect-cycles-in-2d-grid](https://github.com/narula1304/DSA/tree/master/1559-detect-cycles-in-2d-grid) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/narula1304/DSA/tree/master/0322-coin-change) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/narula1304/DSA/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
