@@ -216,8 +216,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/narula1304/DSA/tree/master/0322-coin-change) |
+| [0494-target-sum](https://github.com/narula1304/DSA/tree/master/0494-target-sum) |
 ## Complete Knapsack
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/narula1304/DSA/tree/master/0322-coin-change) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/narula1304/DSA/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
