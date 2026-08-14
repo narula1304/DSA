@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/narula1304/DSA/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0543-diameter-of-binary-tree](https://github.com/narula1304/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/narula1304/DSA/tree/master/1559-detect-cycles-in-2d-grid) |
 ## Breadth-First Search
 |  |
@@ -231,4 +232,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0494-target-sum](https://github.com/narula1304/DSA/tree/master/0494-target-sum) |
+## Tree
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/narula1304/DSA/tree/master/0543-diameter-of-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/narula1304/DSA/tree/master/0543-diameter-of-binary-tree) |
+## DP on Trees
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/narula1304/DSA/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
