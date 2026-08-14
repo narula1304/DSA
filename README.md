@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/narula1304/DSA/tree/master/0070-climbing-stairs) |
 | [0343-integer-break](https://github.com/narula1304/DSA/tree/master/0343-integer-break) |
 | [0368-largest-divisible-subset](https://github.com/narula1304/DSA/tree/master/0368-largest-divisible-subset) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/narula1304/DSA/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/narula1304/DSA/tree/master/0070-climbing-stairs) |
 | [0120-triangle](https://github.com/narula1304/DSA/tree/master/0120-triangle) |
 | [0131-palindrome-partitioning](https://github.com/narula1304/DSA/tree/master/0131-palindrome-partitioning) |
 | [0140-word-break-ii](https://github.com/narula1304/DSA/tree/master/0140-word-break-ii) |
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/narula1304/DSA/tree/master/0070-climbing-stairs) |
 | [0140-word-break-ii](https://github.com/narula1304/DSA/tree/master/0140-word-break-ii) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/narula1304/DSA/tree/master/0329-longest-increasing-path-in-a-matrix) |
 ## Matrix
