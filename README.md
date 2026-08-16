@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1052-grumpy-bookstore-owner](https://github.com/narula1304/DSA/tree/master/1052-grumpy-bookstore-owner) |
 | [1094-car-pooling](https://github.com/narula1304/DSA/tree/master/1094-car-pooling) |
 | [1130-minimum-cost-tree-from-leaf-values](https://github.com/narula1304/DSA/tree/master/1130-minimum-cost-tree-from-leaf-values) |
+| [1268-search-suggestions-system](https://github.com/narula1304/DSA/tree/master/1268-search-suggestions-system) |
 | [1301-number-of-paths-with-max-score](https://github.com/narula1304/DSA/tree/master/1301-number-of-paths-with-max-score) |
 | [1340-jump-game-v](https://github.com/narula1304/DSA/tree/master/1340-jump-game-v) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/narula1304/DSA/tree/master/1559-detect-cycles-in-2d-grid) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/narula1304/DSA/tree/master/0368-largest-divisible-subset) |
 | [0720-longest-word-in-dictionary](https://github.com/narula1304/DSA/tree/master/0720-longest-word-in-dictionary) |
 | [1094-car-pooling](https://github.com/narula1304/DSA/tree/master/1094-car-pooling) |
+| [1268-search-suggestions-system](https://github.com/narula1304/DSA/tree/master/1268-search-suggestions-system) |
 | [1340-jump-game-v](https://github.com/narula1304/DSA/tree/master/1340-jump-game-v) |
 | [3346-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/narula1304/DSA/tree/master/3346-maximum-frequency-of-an-element-after-performing-operations-i) |
 ## Backtracking
@@ -133,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/narula1304/DSA/tree/master/0567-permutation-in-string) |
 | [0648-replace-words](https://github.com/narula1304/DSA/tree/master/0648-replace-words) |
 | [0720-longest-word-in-dictionary](https://github.com/narula1304/DSA/tree/master/0720-longest-word-in-dictionary) |
+| [1268-search-suggestions-system](https://github.com/narula1304/DSA/tree/master/1268-search-suggestions-system) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/narula1304/DSA/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [2381-shifting-letters-ii](https://github.com/narula1304/DSA/tree/master/2381-shifting-letters-ii) |
 ## Trie
@@ -143,12 +146,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0212-word-search-ii](https://github.com/narula1304/DSA/tree/master/0212-word-search-ii) |
 | [0648-replace-words](https://github.com/narula1304/DSA/tree/master/0648-replace-words) |
 | [0720-longest-word-in-dictionary](https://github.com/narula1304/DSA/tree/master/0720-longest-word-in-dictionary) |
+| [1268-search-suggestions-system](https://github.com/narula1304/DSA/tree/master/1268-search-suggestions-system) |
 ## Binary Search
 |  |
 | ------- |
 | [0162-find-peak-element](https://github.com/narula1304/DSA/tree/master/0162-find-peak-element) |
 | [0300-longest-increasing-subsequence](https://github.com/narula1304/DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0540-single-element-in-a-sorted-array](https://github.com/narula1304/DSA/tree/master/0540-single-element-in-a-sorted-array) |
+| [1268-search-suggestions-system](https://github.com/narula1304/DSA/tree/master/1268-search-suggestions-system) |
 | [3346-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/narula1304/DSA/tree/master/3346-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3356-zero-array-transformation-ii](https://github.com/narula1304/DSA/tree/master/3356-zero-array-transformation-ii) |
 ## Stack
@@ -202,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/narula1304/DSA/tree/master/0023-merge-k-sorted-lists) |
 | [0347-top-k-frequent-elements](https://github.com/narula1304/DSA/tree/master/0347-top-k-frequent-elements) |
 | [1094-car-pooling](https://github.com/narula1304/DSA/tree/master/1094-car-pooling) |
+| [1268-search-suggestions-system](https://github.com/narula1304/DSA/tree/master/1268-search-suggestions-system) |
 | [1642-furthest-building-you-can-reach](https://github.com/narula1304/DSA/tree/master/1642-furthest-building-you-can-reach) |
 ## Simulation
 |  |
