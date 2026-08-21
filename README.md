@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1268-search-suggestions-system](https://github.com/narula1304/DSA/tree/master/1268-search-suggestions-system) |
 | [1301-number-of-paths-with-max-score](https://github.com/narula1304/DSA/tree/master/1301-number-of-paths-with-max-score) |
 | [1340-jump-game-v](https://github.com/narula1304/DSA/tree/master/1340-jump-game-v) |
+| [1386-cinema-seat-allocation](https://github.com/narula1304/DSA/tree/master/1386-cinema-seat-allocation) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/narula1304/DSA/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1642-furthest-building-you-can-reach](https://github.com/narula1304/DSA/tree/master/1642-furthest-building-you-can-reach) |
 | [2381-shifting-letters-ii](https://github.com/narula1304/DSA/tree/master/2381-shifting-letters-ii) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0677-map-sum-pairs](https://github.com/narula1304/DSA/tree/master/0677-map-sum-pairs) |
 | [0720-longest-word-in-dictionary](https://github.com/narula1304/DSA/tree/master/0720-longest-word-in-dictionary) |
 | [0815-bus-routes](https://github.com/narula1304/DSA/tree/master/0815-bus-routes) |
+| [1386-cinema-seat-allocation](https://github.com/narula1304/DSA/tree/master/1386-cinema-seat-allocation) |
 ## String
 |  |
 | ------- |
@@ -167,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1130-minimum-cost-tree-from-leaf-values](https://github.com/narula1304/DSA/tree/master/1130-minimum-cost-tree-from-leaf-values) |
+| [1386-cinema-seat-allocation](https://github.com/narula1304/DSA/tree/master/1386-cinema-seat-allocation) |
 | [1642-furthest-building-you-can-reach](https://github.com/narula1304/DSA/tree/master/1642-furthest-building-you-can-reach) |
 ## Monotonic Stack
 |  |
@@ -196,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/narula1304/DSA/tree/master/0187-repeated-dna-sequences) |
+| [1386-cinema-seat-allocation](https://github.com/narula1304/DSA/tree/master/1386-cinema-seat-allocation) |
 ## Rolling Hash
 |  |
 | ------- |
