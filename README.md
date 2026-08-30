@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0720-longest-word-in-dictionary](https://github.com/narula1304/DSA/tree/master/0720-longest-word-in-dictionary) |
 | [0815-bus-routes](https://github.com/narula1304/DSA/tree/master/0815-bus-routes) |
 | [0931-minimum-falling-path-sum](https://github.com/narula1304/DSA/tree/master/0931-minimum-falling-path-sum) |
+| [1035-uncrossed-lines](https://github.com/narula1304/DSA/tree/master/1035-uncrossed-lines) |
 | [1052-grumpy-bookstore-owner](https://github.com/narula1304/DSA/tree/master/1052-grumpy-bookstore-owner) |
 | [1094-car-pooling](https://github.com/narula1304/DSA/tree/master/1094-car-pooling) |
 | [1130-minimum-cost-tree-from-leaf-values](https://github.com/narula1304/DSA/tree/master/1130-minimum-cost-tree-from-leaf-values) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/narula1304/DSA/tree/master/0494-target-sum) |
 | [0576-out-of-boundary-paths](https://github.com/narula1304/DSA/tree/master/0576-out-of-boundary-paths) |
 | [0931-minimum-falling-path-sum](https://github.com/narula1304/DSA/tree/master/0931-minimum-falling-path-sum) |
+| [1035-uncrossed-lines](https://github.com/narula1304/DSA/tree/master/1035-uncrossed-lines) |
 | [1130-minimum-cost-tree-from-leaf-values](https://github.com/narula1304/DSA/tree/master/1130-minimum-cost-tree-from-leaf-values) |
 | [1155-number-of-dice-rolls-with-target-sum](https://github.com/narula1304/DSA/tree/master/1155-number-of-dice-rolls-with-target-sum) |
 | [1301-number-of-paths-with-max-score](https://github.com/narula1304/DSA/tree/master/1301-number-of-paths-with-max-score) |
@@ -284,4 +286,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/narula1304/DSA/tree/master/0208-implement-trie-prefix-tree) |
 | [0677-map-sum-pairs](https://github.com/narula1304/DSA/tree/master/0677-map-sum-pairs) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1035-uncrossed-lines](https://github.com/narula1304/DSA/tree/master/1035-uncrossed-lines) |
 <!---LeetCode Topics End-->
