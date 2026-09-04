@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1559-detect-cycles-in-2d-grid](https://github.com/narula1304/DSA/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1642-furthest-building-you-can-reach](https://github.com/narula1304/DSA/tree/master/1642-furthest-building-you-can-reach) |
 | [2381-shifting-letters-ii](https://github.com/narula1304/DSA/tree/master/2381-shifting-letters-ii) |
+| [2841-maximum-sum-of-almost-unique-subarray](https://github.com/narula1304/DSA/tree/master/2841-maximum-sum-of-almost-unique-subarray) |
 | [3346-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/narula1304/DSA/tree/master/3346-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3356-zero-array-transformation-ii](https://github.com/narula1304/DSA/tree/master/3356-zero-array-transformation-ii) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/narula1304/DSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0720-longest-word-in-dictionary](https://github.com/narula1304/DSA/tree/master/0720-longest-word-in-dictionary) |
 | [0815-bus-routes](https://github.com/narula1304/DSA/tree/master/0815-bus-routes) |
 | [1386-cinema-seat-allocation](https://github.com/narula1304/DSA/tree/master/1386-cinema-seat-allocation) |
+| [2841-maximum-sum-of-almost-unique-subarray](https://github.com/narula1304/DSA/tree/master/2841-maximum-sum-of-almost-unique-subarray) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/narula1304/DSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## String
 |  |
@@ -202,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/narula1304/DSA/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/narula1304/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [1052-grumpy-bookstore-owner](https://github.com/narula1304/DSA/tree/master/1052-grumpy-bookstore-owner) |
+| [2841-maximum-sum-of-almost-unique-subarray](https://github.com/narula1304/DSA/tree/master/2841-maximum-sum-of-almost-unique-subarray) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/narula1304/DSA/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3346-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/narula1304/DSA/tree/master/3346-maximum-frequency-of-an-element-after-performing-operations-i) |
 ## Bit Manipulation
