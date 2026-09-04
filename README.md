@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0720-longest-word-in-dictionary](https://github.com/narula1304/DSA/tree/master/0720-longest-word-in-dictionary) |
 | [0815-bus-routes](https://github.com/narula1304/DSA/tree/master/0815-bus-routes) |
 | [1386-cinema-seat-allocation](https://github.com/narula1304/DSA/tree/master/1386-cinema-seat-allocation) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/narula1304/DSA/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2841-maximum-sum-of-almost-unique-subarray](https://github.com/narula1304/DSA/tree/master/2841-maximum-sum-of-almost-unique-subarray) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/narula1304/DSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## String
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0720-longest-word-in-dictionary](https://github.com/narula1304/DSA/tree/master/0720-longest-word-in-dictionary) |
 | [1268-search-suggestions-system](https://github.com/narula1304/DSA/tree/master/1268-search-suggestions-system) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/narula1304/DSA/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/narula1304/DSA/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2381-shifting-letters-ii](https://github.com/narula1304/DSA/tree/master/2381-shifting-letters-ii) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/narula1304/DSA/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Trie
@@ -207,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/narula1304/DSA/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/narula1304/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [1052-grumpy-bookstore-owner](https://github.com/narula1304/DSA/tree/master/1052-grumpy-bookstore-owner) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/narula1304/DSA/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2841-maximum-sum-of-almost-unique-subarray](https://github.com/narula1304/DSA/tree/master/2841-maximum-sum-of-almost-unique-subarray) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/narula1304/DSA/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3346-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/narula1304/DSA/tree/master/3346-maximum-frequency-of-an-element-after-performing-operations-i) |
@@ -256,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/narula1304/DSA/tree/master/0347-top-k-frequent-elements) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/narula1304/DSA/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Quickselect
 |  |
 | ------- |
