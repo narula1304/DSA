@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0648-replace-words](https://github.com/narula1304/DSA/tree/master/0648-replace-words) |
 | [0677-map-sum-pairs](https://github.com/narula1304/DSA/tree/master/0677-map-sum-pairs) |
 | [0720-longest-word-in-dictionary](https://github.com/narula1304/DSA/tree/master/0720-longest-word-in-dictionary) |
+| [1234-replace-the-substring-for-balanced-string](https://github.com/narula1304/DSA/tree/master/1234-replace-the-substring-for-balanced-string) |
 | [1268-search-suggestions-system](https://github.com/narula1304/DSA/tree/master/1268-search-suggestions-system) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/narula1304/DSA/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/narula1304/DSA/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/narula1304/DSA/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/narula1304/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [1052-grumpy-bookstore-owner](https://github.com/narula1304/DSA/tree/master/1052-grumpy-bookstore-owner) |
+| [1234-replace-the-substring-for-balanced-string](https://github.com/narula1304/DSA/tree/master/1234-replace-the-substring-for-balanced-string) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/narula1304/DSA/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/narula1304/DSA/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2841-maximum-sum-of-almost-unique-subarray](https://github.com/narula1304/DSA/tree/master/2841-maximum-sum-of-almost-unique-subarray) |
