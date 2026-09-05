@@ -156,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1234-replace-the-substring-for-balanced-string](https://github.com/narula1304/DSA/tree/master/1234-replace-the-substring-for-balanced-string) |
 | [1268-search-suggestions-system](https://github.com/narula1304/DSA/tree/master/1268-search-suggestions-system) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/narula1304/DSA/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/narula1304/DSA/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/narula1304/DSA/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2381-shifting-letters-ii](https://github.com/narula1304/DSA/tree/master/2381-shifting-letters-ii) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/narula1304/DSA/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1052-grumpy-bookstore-owner](https://github.com/narula1304/DSA/tree/master/1052-grumpy-bookstore-owner) |
 | [1234-replace-the-substring-for-balanced-string](https://github.com/narula1304/DSA/tree/master/1234-replace-the-substring-for-balanced-string) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/narula1304/DSA/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/narula1304/DSA/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/narula1304/DSA/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/narula1304/DSA/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2841-maximum-sum-of-almost-unique-subarray](https://github.com/narula1304/DSA/tree/master/2841-maximum-sum-of-almost-unique-subarray) |
