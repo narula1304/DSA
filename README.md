@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/narula1304/DSA/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2381-shifting-letters-ii](https://github.com/narula1304/DSA/tree/master/2381-shifting-letters-ii) |
 | [2841-maximum-sum-of-almost-unique-subarray](https://github.com/narula1304/DSA/tree/master/2841-maximum-sum-of-almost-unique-subarray) |
+| [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/narula1304/DSA/tree/master/2962-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3346-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/narula1304/DSA/tree/master/3346-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3356-zero-array-transformation-ii](https://github.com/narula1304/DSA/tree/master/3356-zero-array-transformation-ii) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/narula1304/DSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/narula1304/DSA/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2841-maximum-sum-of-almost-unique-subarray](https://github.com/narula1304/DSA/tree/master/2841-maximum-sum-of-almost-unique-subarray) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/narula1304/DSA/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
+| [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/narula1304/DSA/tree/master/2962-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3346-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/narula1304/DSA/tree/master/3346-maximum-frequency-of-an-element-after-performing-operations-i) |
 ## Bit Manipulation
 |  |
