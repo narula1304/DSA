@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1268-search-suggestions-system](https://github.com/narula1304/DSA/tree/master/1268-search-suggestions-system) |
 | [1301-number-of-paths-with-max-score](https://github.com/narula1304/DSA/tree/master/1301-number-of-paths-with-max-score) |
 | [1340-jump-game-v](https://github.com/narula1304/DSA/tree/master/1340-jump-game-v) |
+| [1383-maximum-performance-of-a-team](https://github.com/narula1304/DSA/tree/master/1383-maximum-performance-of-a-team) |
 | [1386-cinema-seat-allocation](https://github.com/narula1304/DSA/tree/master/1386-cinema-seat-allocation) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/narula1304/DSA/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/narula1304/DSA/tree/master/1559-detect-cycles-in-2d-grid) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1094-car-pooling](https://github.com/narula1304/DSA/tree/master/1094-car-pooling) |
 | [1268-search-suggestions-system](https://github.com/narula1304/DSA/tree/master/1268-search-suggestions-system) |
 | [1340-jump-game-v](https://github.com/narula1304/DSA/tree/master/1340-jump-game-v) |
+| [1383-maximum-performance-of-a-team](https://github.com/narula1304/DSA/tree/master/1383-maximum-performance-of-a-team) |
 | [2542-maximum-subsequence-score](https://github.com/narula1304/DSA/tree/master/2542-maximum-subsequence-score) |
 | [3346-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/narula1304/DSA/tree/master/3346-maximum-frequency-of-an-element-after-performing-operations-i) |
 ## Backtracking
@@ -199,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/narula1304/DSA/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1130-minimum-cost-tree-from-leaf-values](https://github.com/narula1304/DSA/tree/master/1130-minimum-cost-tree-from-leaf-values) |
+| [1383-maximum-performance-of-a-team](https://github.com/narula1304/DSA/tree/master/1383-maximum-performance-of-a-team) |
 | [1386-cinema-seat-allocation](https://github.com/narula1304/DSA/tree/master/1386-cinema-seat-allocation) |
 | [1405-longest-happy-string](https://github.com/narula1304/DSA/tree/master/1405-longest-happy-string) |
 | [1642-furthest-building-you-can-reach](https://github.com/narula1304/DSA/tree/master/1642-furthest-building-you-can-reach) |
@@ -262,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/narula1304/DSA/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1094-car-pooling](https://github.com/narula1304/DSA/tree/master/1094-car-pooling) |
 | [1268-search-suggestions-system](https://github.com/narula1304/DSA/tree/master/1268-search-suggestions-system) |
+| [1383-maximum-performance-of-a-team](https://github.com/narula1304/DSA/tree/master/1383-maximum-performance-of-a-team) |
 | [1405-longest-happy-string](https://github.com/narula1304/DSA/tree/master/1405-longest-happy-string) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/narula1304/DSA/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1642-furthest-building-you-can-reach](https://github.com/narula1304/DSA/tree/master/1642-furthest-building-you-can-reach) |
