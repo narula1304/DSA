@@ -160,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1234-replace-the-substring-for-balanced-string](https://github.com/narula1304/DSA/tree/master/1234-replace-the-substring-for-balanced-string) |
 | [1268-search-suggestions-system](https://github.com/narula1304/DSA/tree/master/1268-search-suggestions-system) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/narula1304/DSA/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [1405-longest-happy-string](https://github.com/narula1304/DSA/tree/master/1405-longest-happy-string) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/narula1304/DSA/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/narula1304/DSA/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/narula1304/DSA/tree/master/2024-maximize-the-confusion-of-an-exam) |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/narula1304/DSA/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1130-minimum-cost-tree-from-leaf-values](https://github.com/narula1304/DSA/tree/master/1130-minimum-cost-tree-from-leaf-values) |
 | [1386-cinema-seat-allocation](https://github.com/narula1304/DSA/tree/master/1386-cinema-seat-allocation) |
+| [1405-longest-happy-string](https://github.com/narula1304/DSA/tree/master/1405-longest-happy-string) |
 | [1642-furthest-building-you-can-reach](https://github.com/narula1304/DSA/tree/master/1642-furthest-building-you-can-reach) |
 ## Monotonic Stack
 |  |
@@ -257,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/narula1304/DSA/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1094-car-pooling](https://github.com/narula1304/DSA/tree/master/1094-car-pooling) |
 | [1268-search-suggestions-system](https://github.com/narula1304/DSA/tree/master/1268-search-suggestions-system) |
+| [1405-longest-happy-string](https://github.com/narula1304/DSA/tree/master/1405-longest-happy-string) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/narula1304/DSA/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1642-furthest-building-you-can-reach](https://github.com/narula1304/DSA/tree/master/1642-furthest-building-you-can-reach) |
 ## Simulation
