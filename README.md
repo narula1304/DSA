@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/narula1304/DSA/tree/master/2962-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3346-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/narula1304/DSA/tree/master/3346-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3356-zero-array-transformation-ii](https://github.com/narula1304/DSA/tree/master/3356-zero-array-transformation-ii) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/narula1304/DSA/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/narula1304/DSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Dynamic Programming
 |  |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1301-number-of-paths-with-max-score](https://github.com/narula1304/DSA/tree/master/1301-number-of-paths-with-max-score) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/narula1304/DSA/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1340-jump-game-v](https://github.com/narula1304/DSA/tree/master/1340-jump-game-v) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/narula1304/DSA/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Sorting
 |  |
 | ------- |
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1383-maximum-performance-of-a-team](https://github.com/narula1304/DSA/tree/master/1383-maximum-performance-of-a-team) |
 | [2542-maximum-subsequence-score](https://github.com/narula1304/DSA/tree/master/2542-maximum-subsequence-score) |
 | [3346-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/narula1304/DSA/tree/master/3346-maximum-frequency-of-an-element-after-performing-operations-i) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/narula1304/DSA/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Backtracking
 |  |
 | ------- |
@@ -199,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/narula1304/DSA/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [3346-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/narula1304/DSA/tree/master/3346-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3356-zero-array-transformation-ii](https://github.com/narula1304/DSA/tree/master/3356-zero-array-transformation-ii) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/narula1304/DSA/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Stack
 |  |
 | ------- |
