@@ -386,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0175-combine-two-tables](https://github.com/narula1304/DSA/tree/master/0175-combine-two-tables) |
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/narula1304/DSA/tree/master/0586-customer-placing-the-largest-number-of-orders) |
 | [0596-classes-with-at-least-5-students](https://github.com/narula1304/DSA/tree/master/0596-classes-with-at-least-5-students) |
 | [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/narula1304/DSA/tree/master/1050-actors-and-directors-who-cooperated-at-least-three-times) |
