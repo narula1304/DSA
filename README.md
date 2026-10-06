@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/narula1304/DSA/tree/master/0368-largest-divisible-subset) |
 | [0494-target-sum](https://github.com/narula1304/DSA/tree/master/0494-target-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/narula1304/DSA/tree/master/0540-single-element-in-a-sorted-array) |
+| [0560-subarray-sum-equals-k](https://github.com/narula1304/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/narula1304/DSA/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0643-maximum-average-subarray-i](https://github.com/narula1304/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0648-replace-words](https://github.com/narula1304/DSA/tree/master/0648-replace-words) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/narula1304/DSA/tree/master/0208-implement-trie-prefix-tree) |
 | [0347-top-k-frequent-elements](https://github.com/narula1304/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/narula1304/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0560-subarray-sum-equals-k](https://github.com/narula1304/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/narula1304/DSA/tree/master/0567-permutation-in-string) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/narula1304/DSA/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0648-replace-words](https://github.com/narula1304/DSA/tree/master/0648-replace-words) |
@@ -298,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/narula1304/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [1094-car-pooling](https://github.com/narula1304/DSA/tree/master/1094-car-pooling) |
 | [1208-get-equal-substrings-within-budget](https://github.com/narula1304/DSA/tree/master/1208-get-equal-substrings-within-budget) |
 | [1480-running-sum-of-1d-array](https://github.com/narula1304/DSA/tree/master/1480-running-sum-of-1d-array) |
