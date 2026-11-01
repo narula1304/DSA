@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/narula1304/DSA/tree/master/0070-climbing-stairs) |
 | [0343-integer-break](https://github.com/narula1304/DSA/tree/master/0343-integer-break) |
 | [0368-largest-divisible-subset](https://github.com/narula1304/DSA/tree/master/0368-largest-divisible-subset) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/narula1304/DSA/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/narula1304/DSA/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Array
 |  |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/narula1304/DSA/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0347-top-k-frequent-elements](https://github.com/narula1304/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0368-largest-divisible-subset](https://github.com/narula1304/DSA/tree/master/0368-largest-divisible-subset) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/narula1304/DSA/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0494-target-sum](https://github.com/narula1304/DSA/tree/master/0494-target-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/narula1304/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/narula1304/DSA/tree/master/0560-subarray-sum-equals-k) |
