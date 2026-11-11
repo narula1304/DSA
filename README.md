@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/narula1304/DSA/tree/master/0368-largest-divisible-subset) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/narula1304/DSA/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/narula1304/DSA/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/narula1304/DSA/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Array
 |  |
 | ------- |
@@ -230,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1642-furthest-building-you-can-reach](https://github.com/narula1304/DSA/tree/master/1642-furthest-building-you-can-reach) |
 | [2530-maximal-score-after-applying-k-operations](https://github.com/narula1304/DSA/tree/master/2530-maximal-score-after-applying-k-operations) |
 | [2542-maximum-subsequence-score](https://github.com/narula1304/DSA/tree/master/2542-maximum-subsequence-score) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/narula1304/DSA/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Monotonic Stack
 |  |
 | ------- |
